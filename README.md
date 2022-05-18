@@ -32,7 +32,7 @@ https://www.jetbrains.com/help/idea/installation-guide.html
 
 ## Criando um Projeto Kotlin
 
-https://www.jetbrains.com/help/idea/create-your-first-kotlin-app.html#create-project
+https://kotlinlang.org/docs/native-get-started.html#create-a-new-kotlin-native-project-in-intellij-idea
 </br></br>
 
 
